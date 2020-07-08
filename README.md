@@ -7,9 +7,14 @@ Jogo desenvolvido para Arduino em Linguagem C
 O jogo se baseia em um personagem que vaga pela céu a noite em busca de coletar a estrela que lhe guiará à luz. Entretanto o personagem se depara com nuvens no seu caminho atrapalhando sua jornada, caso o fantasma esbarre em uma nuvem ele retorna ao 
 corpo, renascendo e perdendo o jogo.
 
-![] Prints/tela1.png
-![] Prints/tela2.png
-![] Prints/tela3.png
+<p align="center">
+<img src="Prints/tela1.png" width="500">
+<img src="Prints/tela2.png" width="500">
+<img src="Prints/tela3.png" width="500">
+<img src="Prints/tela4.png" width="500">
+<img src="Prints/tela5.png" width="500">
+<img src="Prints/tela6.png" width="500">
+</p>
 
 ## Jogabilidade
 * Botão 1 - Navegação no menu
