@@ -3,7 +3,7 @@ Jogo desenvolvido para Arduino em Linguagem C - [Jogo no Tinkercad][tinkercad]
 
 
 ## Contexto
-O jogo se baseia em um personagem que vaga pela céu a noite em busca de coletar a estrela que lhe guiará à luz. Entretanto o personagem se depara com nuvens no seu caminho atrapalhando sua jornada, caso o fantasma esbarre em uma nuvem ele retorna ao 
+Flappy Ghost se baseia em um personagem que vaga pela céu a noite em busca de coletar a estrela que lhe guiará à luz. Entretanto o personagem se depara com nuvens no seu caminho atrapalhando sua jornada, caso o fantasma esbarre em uma nuvem ele retorna ao 
 corpo, renascendo e perdendo o jogo.
 
 <p align="center">
