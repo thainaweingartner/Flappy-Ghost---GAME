@@ -1,6 +1,5 @@
 # Flappy_Ghost-Game
-Jogo desenvolvido para Arduino em Linguagem C
-[Jogo no Tinkercad][tinkercad]
+Jogo desenvolvido para Arduino em Linguagem C - [Jogo no Tinkercad][tinkercad]
 
 
 ## Contexto
